@@ -20,7 +20,7 @@ Execute the program
      <center>
            <table border="5" bgcolor="cyan" cell spacing="10" cellpadding="15">
           
-           <caption>Slot Time Table-SANTHIYA R(2300523)</caption>
+           <caption>Slot Time Table-HARSHINI Y(23006089)</caption>
            
 <tr>
     <TR bgcolor="Yellow">
